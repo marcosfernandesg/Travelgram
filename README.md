@@ -1,7 +1,8 @@
 🌍 Travelgram
 Uma aplicação web inspirada no Instagram, focada em compartilhamento de experiências de viagem e cultura gastronômica.
 📋 Sobre o Projeto
-O Travelgram é um projeto desenvolvido durante os estudos na Rocketseat, criando uma interface similar ao Instagram, mas voltada especificamente para amantes de viagens. A aplicação apresenta o perfil de Isabela Torres, uma viajante apaixonada por cultura e gastronomia que compartilha suas aventuras pelo mundo a partir de São Paulo.
+O Travelgram é um projeto desenvolvido durante os estudos na Rocketseat, criando uma interface similar ao Instagram, mas voltada especificamente para amantes de viagens. A aplicação apresenta o perfil de Isabela Torres, uma viajante apaixonada por cultura e gastronomia que compartilha suas aventuras pelo mundo.
+
 ✨ Funcionalidades
 
 Feed de fotos estilo Instagram
